@@ -1,0 +1,1 @@
+# python-wk1-codility-challenge
